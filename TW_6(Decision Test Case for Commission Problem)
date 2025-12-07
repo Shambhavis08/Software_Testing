@@ -1,4 +1,4 @@
-//Program 6  ( Decision Test Case for Commission Problem)
+//Program 6  (Decision Test Case for Commission Problem)
 #include<stdio.h>
 int main()
 {
